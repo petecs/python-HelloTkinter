@@ -1,3 +1,6 @@
+# Program:      hello-tkinter
+# Description:  A simple "Hello World" program demonstrating basic GUI functionality using widgets and geometry managers.
+
 import tkinter
 import tkinter.messagebox
 
