@@ -1,6 +1,6 @@
 #hello-tkinter
 ##Description
-A simple "Hello World" program demonstrating basic GUI functionality using widgets and geometry managers.
+A simple "Hello World" program demonstrating basic GUI functionality using Tkinter widgets and geometry managers.
 ##Demo
 <img src='hello_tkinter_demo.gif' title='hello-tkinter animated demo' width='' alt='hello-tkinter demo' />
 ##Credits
